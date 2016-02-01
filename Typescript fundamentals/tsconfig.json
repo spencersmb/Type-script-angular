@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "sourceMap": true,
+    "module": "amd",
+    "noImplicitAny": true
+  },
+  "files": [
+    "scripts/bootstrapper.ts",
+    "scripts/main.ts",
+    "scripts/external-Alert.ts",
+    "scripts/external-Service.ts",
+    "typings/tsd.d.ts"
+  ]
+}

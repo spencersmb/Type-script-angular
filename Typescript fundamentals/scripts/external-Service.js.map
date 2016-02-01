@@ -1,0 +1,1 @@
+{"version":3,"file":"external-Service.js","sourceRoot":"","sources":["external-Service.ts"],"names":["DataService","DataService.constructor","DataService.getMessage"],"mappings":";IAOA;QAAAA;YACIC,QAAGA,GAAGA,qBAAqBA,CAACA;QAIhCA,CAACA;QAHGD,gCAAUA,GAAVA;YACIE,MAAMA,CAACA,IAAIA,CAACA,GAAGA,CAACA;QACpBA,CAACA;QACLF,kBAACA;IAADA,CAACA,AALD,IAKC;IALY,mBAAW,cAKvB,CAAA"}
